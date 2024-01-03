@@ -12,7 +12,7 @@ devenv
 !LICENSE-BIN
 .DS_Store
 localbin
-nohup.out
+nohup.bin
 bazel-out
 bazel-bin
 bazel-rocketmq
